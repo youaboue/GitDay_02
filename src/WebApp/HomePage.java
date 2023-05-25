@@ -5,5 +5,7 @@ public class HomePage {
     // new menu
     // home page upted
     // new functionality
+    // final resutl
+    // footer
 
 }
